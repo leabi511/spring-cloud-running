@@ -1,0 +1,6 @@
+/home/vagrant/workspace/504/supply-location-service/src/main/java/demo/domain/SupplyLocation.java
+/home/vagrant/workspace/504/supply-location-service/src/main/java/demo/SupplyLocationServiceApplication.java
+/home/vagrant/workspace/504/supply-location-service/src/main/java/demo/service/SupplyLocationService.java
+/home/vagrant/workspace/504/supply-location-service/src/main/java/demo/service/Impl/SupplyLocationServiceImpl.java
+/home/vagrant/workspace/504/supply-location-service/src/main/java/demo/domain/SupplyLocationRepository.java
+/home/vagrant/workspace/504/supply-location-service/src/main/java/demo/rest/SupplyLocationRestController.java

@@ -1,0 +1,9 @@
+demo/model/RunnerStatus.class
+demo/config/WebSocketConfig.class
+demo/model/CurrentPosition.class
+demo/RunningLocationUpdaterApplication.class
+demo/RunningLocationUpdaterSink.class
+demo/model/MedicalInfo.class
+demo/model/Point.class
+demo/controller/WebSocketController.class
+demo/model/CurrentPositionDto.class
