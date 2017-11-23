@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: edging-service
-
-zuul:
-  routes:
-    supply-location-service:
-      path: /supply-location-service/**
-      url: http://localhost:9001
